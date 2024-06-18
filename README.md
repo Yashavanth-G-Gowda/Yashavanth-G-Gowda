@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi There! This is YASHAVANTH G GOWDA
-Student in JSS SCIENCE AND TECHNOLOGY UNIVERSITY (Formerly, SJCE),Mysore
+**Hi There! This is YASHAVANTH G GOWDA**
+
+**Student in JSS SCIENCE AND TECHNOLOGY UNIVERSITY (Formerly, SJCE),Mysore**
 
 
 # 💻 Tech Stack:
